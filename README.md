@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# E-Commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Tech Stack:
+- React
+- Redux
+- TialwindCss
+- Firebase (Authentication)
 
-## Available Scripts
+### Features:
+- Products Listing
+- Filters: (By price, By rating, By Categories)
+- Add to cart
+- Increase/Decrease quantity of product
+- Checkout page
+- Firebase Authentication (By Google, By Email & Password)
+- Auto fill user details in checkout page (Email, phone)
+- User Avtar in header
 
-In the project directory, you can run:
+### Website Flow:
+- User will add some items in cart
+- On clicking on checkout button if user is not loggedIn than it will be redirected to login page
 
-### `npm start`
+### Approach
+- Used ReduxJS for central app storage
+  - create diffrent slices: cartSlice, appSlice, userSlice
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ScreenShots:
+![e1](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/6e298797-15fe-49d6-a959-fe24f955ac1e)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![e2](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/a55656c1-52e7-42f9-9728-dc8c6b19c13c)
 
-### `npm test`
+![e3](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/22bf17a7-95f3-4144-a9dd-4014bd9a9667)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![e4](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/268465b1-dc09-4936-9009-e7316c327c8a)
 
-### `npm run build`
+![e5](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/e0cd67bb-e908-4aa4-8772-6289663d1ec9)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![e6](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/f1b25d8c-1a46-4a8f-bebc-837b02837f47)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
