@@ -1,0 +1,39 @@
+[
+    {
+        "text": "💻  Laptops",
+        "name": "Laptops",
+        "id": "cat_lap",
+        "brands": ["ASUS", "MSI", "HP", "Lenovo", "Apple"]
+    },
+    {
+        "text": "📱  Phone",
+        "name": "Phone",
+        "id": "cat_phone",
+        "brands": []
+    },
+    {
+        "text": "💃  Women",
+        "name": "Women",
+        "id": "cat_eomen",
+        "brands": []
+    },
+    {
+        "text": "🏋️‍♂️  Fitness",
+        "name": "Fitness",
+        "id": "cat_fitness",
+        "brands": []
+    },
+    {
+        "text": "🍽  Kitchen",
+        "name": "Kitchen",
+        "id": "cat_kitchen",
+        "brands": []
+    },
+    {
+        "text": "🏀  Sports",
+        "name": "Sports",
+        "id": "cat_sports",
+        "brands": []
+    }
+    
+]
