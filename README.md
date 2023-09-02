@@ -25,16 +25,14 @@
   - create diffrent slices: cartSlice, appSlice, userSlice
 
 ### ScreenShots:
-![e1](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/6e298797-15fe-49d6-a959-fe24f955ac1e)
+![e1](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/e7c536b3-0527-4870-9c89-36d5878986bd)
 
-![e2](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/a55656c1-52e7-42f9-9728-dc8c6b19c13c)
+![e2](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/b2ca7213-06bf-421d-82b4-ab85a38d7053)
 
-![e3](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/22bf17a7-95f3-4144-a9dd-4014bd9a9667)
+![e3](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/01d4cc85-ceae-4fba-8b4c-0d8b1df17df2)
 
-![e4](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/268465b1-dc09-4936-9009-e7316c327c8a)
+![e4](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/e64a97f2-b3b1-49d8-adcb-c6172a36609b)
 
-![e5](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/e0cd67bb-e908-4aa4-8772-6289663d1ec9)
+![e5](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/4b824699-1afb-4deb-91be-6dc4ddd038af)
 
-![e6](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/f1b25d8c-1a46-4a8f-bebc-837b02837f47)
-
-
+![e6](https://github.com/harshilsharmaa/totalitycorp-frontend-challenge/assets/71216106/f0f01652-57fb-4e56-9243-b1c3c62ac367)
